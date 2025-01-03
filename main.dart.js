@@ -56742,7 +56742,7 @@ r.click()
 return null},
 $S:0}
 A.AU.prototype={
-P(a){return new A.re(A.aB(["/download",new A.Uj()],t.N,t.hw),"/download","Login to Download APK",!1,null)}}
+P(a){return new A.re(A.aB(["/download",new A.Uj()],t.N,t.hw),"/download","Download 98 APK",!1,null)}}
 A.Uj.prototype={
 $1(a){return new A.mG(null)},
 $S:365}
